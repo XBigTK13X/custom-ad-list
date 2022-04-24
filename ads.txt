@@ -1,191 +1,196 @@
 # Title: Custom Ad List
 
-0.0.0.0 adobe.tt.omtrdc.net
-0.0.0.0 adobeid-na1.services.adobe.com
-0.0.0.0 auth.services.adobe.com
-0.0.0.0 genuine.adobe.com
-0.0.0.0 geo2.adobe.com
-0.0.0.0 ic.adobe.io
-0.0.0.0 lcs-cops.adobe.io
-0.0.0.0 lcs-robs.adobe.io
-0.0.0.0 pgc.adobe.io
-0.0.0.0 acrobat.adobe.com
-0.0.0.0 acroipm2.adobe.com
-0.0.0.0 adobe.com
-0.0.0.0 adobe.demdex.net
-0.0.0.0 adobe.tt.omtrdc.net
-0.0.0.0 adobedc.demdex.net
-0.0.0.0 adobeid-na1.services.adobe.com
-0.0.0.0 ardownload.adobe.com
-0.0.0.0 ardownload3.adobe.com
-0.0.0.0 armmf.adobe.com
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 auth.services.adobe.com
-0.0.0.0 butler.adobe.com
-0.0.0.0 c00.adobe.com
-0.0.0.0 cc-api-data.adobe.io
-0.0.0.0 cc-cdn.adobe.com
-0.0.0.0 cchome.adobe.io
-0.0.0.0 cctypekit.adobe.io
-0.0.0.0 client.messaging.adobe.com
-0.0.0.0 commerce.adobe.io
-0.0.0.0 commerce.adobedtm.com
-0.0.0.0 community.adobe.com
-0.0.0.0 crs.cr.adobe.com
-0.0.0.0 dc-api.adobe.io
-0.0.0.0 documentcloud.adobe.com
-0.0.0.0 edge.adobedc.net
-0.0.0.0 exchange.adobe.com
-0.0.0.0 fast.adobe.demdex.net
-0.0.0.0 genuine.adobe.com
-0.0.0.0 geo.adobe.com
-0.0.0.0 geo2.adobe.com
-0.0.0.0 get.adobe.com
-0.0.0.0 helpx.adobe.com
-0.0.0.0 ic.adobe.io
-0.0.0.0 ims-na1.adobelogin.com
-0.0.0.0 lcs-cops.adobe.io
-0.0.0.0 magento-recs-sdk.adobe.net
-0.0.0.0 p13n-mr.adobe.io
-0.0.0.0 p13n.adobe.io
-0.0.0.0 pdfnow.adobe.io
-0.0.0.0 pgc.adobe.io
-0.0.0.0 prod.adobeccstatic.com
-0.0.0.0 resources.licenses.adobe.com
-0.0.0.0 siliconlabs-h.assetsadobe.com
-0.0.0.0 sstats.adobe.com
-0.0.0.0 static.adobelogin.com
-0.0.0.0 swupmf.adobe.com
-0.0.0.0 www.adobe.com
-0.0.0.0 www.adobeexchange.com
-0.0.0.0 wwwimages.adobe.com
-0.0.0.0 wwwimages2.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 adobeid-na1.services.adobe.com
+127.0.0.1 auth.services.adobe.com
+127.0.0.1 genuine.adobe.com
+127.0.0.1 geo2.adobe.com
+127.0.0.1 ic.adobe.io
+127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 pgc.adobe.io
+127.0.0.1 acrobat.adobe.com
+127.0.0.1 acroipm2.adobe.com
+127.0.0.1 adobe.com
+127.0.0.1 adobe.demdex.net
+127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 adobedc.demdex.net
+127.0.0.1 adobeid-na1.services.adobe.com
+127.0.0.1 ardownload.adobe.com
+127.0.0.1 ardownload3.adobe.com
+127.0.0.1 armmf.adobe.com
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 auth.services.adobe.com
+127.0.0.1 butler.adobe.com
+127.0.0.1 c00.adobe.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 cc-cdn.adobe.com
+127.0.0.1 cchome.adobe.io
+127.0.0.1 cctypekit.adobe.io
+127.0.0.1 client.messaging.adobe.com
+127.0.0.1 commerce.adobe.io
+127.0.0.1 commerce.adobedtm.com
+127.0.0.1 community.adobe.com
+127.0.0.1 crs.cr.adobe.com
+127.0.0.1 dc-api.adobe.io
+127.0.0.1 documentcloud.adobe.com
+127.0.0.1 edge.adobedc.net
+127.0.0.1 exchange.adobe.com
+127.0.0.1 fast.adobe.demdex.net
+127.0.0.1 genuine.adobe.com
+127.0.0.1 geo.adobe.com
+127.0.0.1 geo2.adobe.com
+127.0.0.1 get.adobe.com
+127.0.0.1 helpx.adobe.com
+127.0.0.1 ic.adobe.io
+127.0.0.1 ims-na1.adobelogin.com
+127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 magento-recs-sdk.adobe.net
+127.0.0.1 p13n-mr.adobe.io
+127.0.0.1 p13n.adobe.io
+127.0.0.1 pdfnow.adobe.io
+127.0.0.1 pgc.adobe.io
+127.0.0.1 prod.adobeccstatic.com
+127.0.0.1 resources.licenses.adobe.com
+127.0.0.1 siliconlabs-h.assetsadobe.com
+127.0.0.1 sstats.adobe.com
+127.0.0.1 static.adobelogin.com
+127.0.0.1 swupmf.adobe.com
+127.0.0.1 www.adobe.com
+127.0.0.1 www.adobeexchange.com
+127.0.0.1 wwwimages.adobe.com
+127.0.0.1 wwwimages2.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
-127.0.0.1 3dns-2.adobe.com #192.150.22.22
-127.0.0.1 3dns-3.adobe.com #192.150.14.21
-127.0.0.1 3dns-4.adobe.com #192.150.18.247
-127.0.0.1 3dns-5.adobe.com #192.150.22.46
-127.0.0.1 adobe-dns.adobe.com #192.150.11.30
-127.0.0.1 adobe-dns-2.adobe.com #192.150.11.247
-127.0.0.1 adobe-dns-3.adobe.com #192.150.22.30
-127.0.0.1 adobe.activate.com #69.175.22.26
-127.0.0.1 activate.adobe.com #192.150.22.40
-127.0.0.1 activate.wip3.adobe.com #192.150.22.40
-127.0.0.1 activate.wip4.adobe.com #192.150.22.40
-127.0.0.1 activate-sea.adobe.com #192.150.22.40
-127.0.0.1 activate-sjc0.adobe.com #192.150.14.69
-127.0.0.1 ereg.adobe.com #192.150.18.103
-127.0.0.1 ereg.wip3.adobe.com #192.150.18.63
-127.0.0.1 ereg.wip4.adobe.com #192.150.18.103
-127.0.0.1 practivate.adobe.com #192.150.18.54
-127.0.0.1 www.wip3.adobe.com #192.150.8.60
-127.0.0.1 www.wip4.adobe.com #192.150.18.200
-127.0.0.1 www.adobeereg.com #75.125.24.83
-127.0.0.1 adobeereg.com #207.66.2.10
-127.0.0.1 hl2rcv.adobe.com #192.150.14.174
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns-5.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe.activate.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 www.wip3.adobe.com
+127.0.0.1 www.wip4.adobe.com
+127.0.0.1 www.adobeereg.com
+127.0.0.1 adobeereg.com
+127.0.0.1 hl2rcv.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 wwis-dubc1-vip30.adobe.com #192.150.8.30
-127.0.0.1 wwis-dubc1-vip31.adobe.com #192.150.8.31
-127.0.0.1 wwis-dubc1-vip32.adobe.com #192.150.8.32
-127.0.0.1 wwis-dubc1-vip33.adobe.com #192.150.8.33
-127.0.0.1 wwis-dubc1-vip34.adobe.com #192.150.8.34
-127.0.0.1 wwis-dubc1-vip35.adobe.com #192.150.8.35
-127.0.0.1 wwis-dubc1-vip36.adobe.com #192.150.8.36
-127.0.0.1 wwis-dubc1-vip37.adobe.com #192.150.8.37
-127.0.0.1 wwis-dubc1-vip38.adobe.com #192.150.8.38
-127.0.0.1 wwis-dubc1-vip39.adobe.com #192.150.8.39
-127.0.0.1 wwis-dubc1-vip40.adobe.com #192.150.8.40
-127.0.0.1 wwis-dubc1-vip41.adobe.com #192.150.8.41
-127.0.0.1 wwis-dubc1-vip42.adobe.com #192.150.8.42
-127.0.0.1 wwis-dubc1-vip43.adobe.com #192.150.8.43
-127.0.0.1 wwis-dubc1-vip44.adobe.com #192.150.8.44
-127.0.0.1 wwis-dubc1-vip45.adobe.com #192.150.8.45
-127.0.0.1 wwis-dubc1-vip46.adobe.com #192.150.8.46
-127.0.0.1 wwis-dubc1-vip47.adobe.com #192.150.8.47
-127.0.0.1 wwis-dubc1-vip48.adobe.com #192.150.8.48
-127.0.0.1 wwis-dubc1-vip49.adobe.com #192.150.8.49
-127.0.0.1 wwis-dubc1-vip50.adobe.com #192.150.8.50
-127.0.0.1 wwis-dubc1-vip51.adobe.com #192.150.8.51
-127.0.0.1 wwis-dubc1-vip52.adobe.com #192.150.8.52
-127.0.0.1 wwis-dubc1-vip53.adobe.com #192.150.8.53
-127.0.0.1 wwis-dubc1-vip54.adobe.com #192.150.8.54
-127.0.0.1 wwis-dubc1-vip55.adobe.com #192.150.8.55
-127.0.0.1 wwis-dubc1-vip56.adobe.com #192.150.8.56
-127.0.0.1 wwis-dubc1-vip57.adobe.com #192.150.8.57
-127.0.0.1 wwis-dubc1-vip58.adobe.com #192.150.8.58
-127.0.0.1 wwis-dubc1-vip59.adobe.com #192.150.8.59
-127.0.0.1 wwis-dubc1-vip60.adobe.com #192.160.8.60
-127.0.0.1 wwis-dubc1-vip61.adobe.com #192.160.8.61
-127.0.0.1 wwis-dubc1-vip62.adobe.com #192.160.8.62
-127.0.0.1 wwis-dubc1-vip63.adobe.com #192.160.8.63
-127.0.0.1 wwis-dubc1-vip64.adobe.com #192.160.8.64
-127.0.0.1 wwis-dubc1-vip65.adobe.com #192.160.8.65
-127.0.0.1 wwis-dubc1-vip66.adobe.com #192.160.8.66
-127.0.0.1 wwis-dubc1-vip67.adobe.com #192.160.8.67
-127.0.0.1 wwis-dubc1-vip68.adobe.com #192.160.8.68
-127.0.0.1 wwis-dubc1-vip69.adobe.com #192.160.8.69
-127.0.0.1 wwis-dubc1-vip70.adobe.com #192.170.8.70
-127.0.0.1 wwis-dubc1-vip71.adobe.com #192.170.8.71
-127.0.0.1 wwis-dubc1-vip72.adobe.com #192.170.8.72
-127.0.0.1 wwis-dubc1-vip73.adobe.com #192.170.8.73
-127.0.0.1 wwis-dubc1-vip74.adobe.com #192.170.8.74
-127.0.0.1 wwis-dubc1-vip75.adobe.com #192.170.8.75
-127.0.0.1 wwis-dubc1-vip76.adobe.com #192.170.8.76
-127.0.0.1 wwis-dubc1-vip77.adobe.com #192.170.8.77
-127.0.0.1 wwis-dubc1-vip78.adobe.com #192.170.8.78
-127.0.0.1 wwis-dubc1-vip79.adobe.com #192.170.8.79
-127.0.0.1 wwis-dubc1-vip80.adobe.com #192.180.8.80
-127.0.0.1 wwis-dubc1-vip81.adobe.com #192.180.8.81
-127.0.0.1 wwis-dubc1-vip82.adobe.com #192.180.8.82
-127.0.0.1 wwis-dubc1-vip83.adobe.com #192.180.8.83
-127.0.0.1 wwis-dubc1-vip84.adobe.com #192.180.8.84
-127.0.0.1 wwis-dubc1-vip85.adobe.com #192.180.8.85
-127.0.0.1 wwis-dubc1-vip86.adobe.com #192.180.8.86
-127.0.0.1 wwis-dubc1-vip87.adobe.com #192.180.8.87
-127.0.0.1 wwis-dubc1-vip88.adobe.com #192.180.8.88
-127.0.0.1 wwis-dubc1-vip89.adobe.com #192.180.8.89
-127.0.0.1 wwis-dubc1-vip90.adobe.com #192.190.8.90
-127.0.0.1 wwis-dubc1-vip91.adobe.com #192.190.8.91
-127.0.0.1 wwis-dubc1-vip92.adobe.com #192.190.8.92
-127.0.0.1 wwis-dubc1-vip93.adobe.com #192.190.8.93
-127.0.0.1 wwis-dubc1-vip94.adobe.com #192.190.8.94
-127.0.0.1 wwis-dubc1-vip95.adobe.com #192.190.8.95
-127.0.0.1 wwis-dubc1-vip96.adobe.com #192.190.8.96
-127.0.0.1 wwis-dubc1-vip97.adobe.com #192.190.8.97
-127.0.0.1 wwis-dubc1-vip98.adobe.com #192.190.8.98
-127.0.0.1 wwis-dubc1-vip99.adobe.com #192.190.8.99
-127.0.0.1 wwis-dubc1-vip100.adobe.com #192.1100.8.100
-127.0.0.1 wwis-dubc1-vip101.adobe.com #192.1100.8.101
-127.0.0.1 wwis-dubc1-vip102.adobe.com #192.1100.8.102
-127.0.0.1 wwis-dubc1-vip103.adobe.com #192.1100.8.103
-127.0.0.1 wwis-dubc1-vip104.adobe.com #192.1100.8.104
-127.0.0.1 wwis-dubc1-vip105.adobe.com #192.1100.8.105
-127.0.0.1 wwis-dubc1-vip106.adobe.com #192.1100.8.106
-127.0.0.1 wwis-dubc1-vip107.adobe.com #192.1100.8.107
-127.0.0.1 wwis-dubc1-vip108.adobe.com #192.1100.8.108
-127.0.0.1 wwis-dubc1-vip109.adobe.com #192.1100.8.109
-127.0.0.1 wwis-dubc1-vip110.adobe.com #192.1110.8.110
-127.0.0.1 wwis-dubc1-vip111.adobe.com #192.1110.8.111
-127.0.0.1 wwis-dubc1-vip112.adobe.com #192.1110.8.112
-127.0.0.1 wwis-dubc1-vip113.adobe.com #192.1110.8.113
-127.0.0.1 wwis-dubc1-vip114.adobe.com #192.1110.8.114
-127.0.0.1 wwis-dubc1-vip115.adobe.com #192.1110.8.115
-127.0.0.1 wwis-dubc1-vip116.adobe.com #192.1110.8.116
-127.0.0.1 wwis-dubc1-vip117.adobe.com #192.1110.8.117
-127.0.0.1 wwis-dubc1-vip118.adobe.com #192.1110.8.118
-127.0.0.1 wwis-dubc1-vip119.adobe.com #192.1110.8.119
-127.0.0.1 wwis-dubc1-vip120.adobe.com #192.1120.8.120
-127.0.0.1 wwis-dubc1-vip121.adobe.com #192.1120.8.121
-127.0.0.1 wwis-dubc1-vip122.adobe.com #192.1120.8.122
-127.0.0.1 wwis-dubc1-vip123.adobe.com #192.1120.8.123
-127.0.0.1 wwis-dubc1-vip124.adobe.com #192.1120.8.124
-127.0.0.1 wwis-dubc1-vip125.adobe.com #192.1120.8.125
-
+127.0.0.1 wwis-dubc1-vip30.adobe.com
+127.0.0.1 wwis-dubc1-vip31.adobe.com
+127.0.0.1 wwis-dubc1-vip32.adobe.com
+127.0.0.1 wwis-dubc1-vip33.adobe.com
+127.0.0.1 wwis-dubc1-vip34.adobe.com
+127.0.0.1 wwis-dubc1-vip35.adobe.com
+127.0.0.1 wwis-dubc1-vip36.adobe.com
+127.0.0.1 wwis-dubc1-vip37.adobe.com
+127.0.0.1 wwis-dubc1-vip38.adobe.com
+127.0.0.1 wwis-dubc1-vip39.adobe.com
+127.0.0.1 wwis-dubc1-vip40.adobe.com
+127.0.0.1 wwis-dubc1-vip41.adobe.com
+127.0.0.1 wwis-dubc1-vip42.adobe.com
+127.0.0.1 wwis-dubc1-vip43.adobe.com
+127.0.0.1 wwis-dubc1-vip44.adobe.com
+127.0.0.1 wwis-dubc1-vip45.adobe.com
+127.0.0.1 wwis-dubc1-vip46.adobe.com
+127.0.0.1 wwis-dubc1-vip47.adobe.com
+127.0.0.1 wwis-dubc1-vip48.adobe.com
+127.0.0.1 wwis-dubc1-vip49.adobe.com
+127.0.0.1 wwis-dubc1-vip50.adobe.com
+127.0.0.1 wwis-dubc1-vip51.adobe.com
+127.0.0.1 wwis-dubc1-vip52.adobe.com
+127.0.0.1 wwis-dubc1-vip53.adobe.com
+127.0.0.1 wwis-dubc1-vip54.adobe.com
+127.0.0.1 wwis-dubc1-vip55.adobe.com
+127.0.0.1 wwis-dubc1-vip56.adobe.com
+127.0.0.1 wwis-dubc1-vip57.adobe.com
+127.0.0.1 wwis-dubc1-vip58.adobe.com
+127.0.0.1 wwis-dubc1-vip59.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 wwis-dubc1-vip61.adobe.com
+127.0.0.1 wwis-dubc1-vip62.adobe.com
+127.0.0.1 wwis-dubc1-vip63.adobe.com
+127.0.0.1 wwis-dubc1-vip64.adobe.com
+127.0.0.1 wwis-dubc1-vip65.adobe.com
+127.0.0.1 wwis-dubc1-vip66.adobe.com
+127.0.0.1 wwis-dubc1-vip67.adobe.com
+127.0.0.1 wwis-dubc1-vip68.adobe.com
+127.0.0.1 wwis-dubc1-vip69.adobe.com
+127.0.0.1 wwis-dubc1-vip70.adobe.com
+127.0.0.1 wwis-dubc1-vip71.adobe.com
+127.0.0.1 wwis-dubc1-vip72.adobe.com
+127.0.0.1 wwis-dubc1-vip73.adobe.com
+127.0.0.1 wwis-dubc1-vip74.adobe.com
+127.0.0.1 wwis-dubc1-vip75.adobe.com
+127.0.0.1 wwis-dubc1-vip76.adobe.com
+127.0.0.1 wwis-dubc1-vip77.adobe.com
+127.0.0.1 wwis-dubc1-vip78.adobe.com
+127.0.0.1 wwis-dubc1-vip79.adobe.com
+127.0.0.1 wwis-dubc1-vip80.adobe.com
+127.0.0.1 wwis-dubc1-vip81.adobe.com
+127.0.0.1 wwis-dubc1-vip82.adobe.com
+127.0.0.1 wwis-dubc1-vip83.adobe.com
+127.0.0.1 wwis-dubc1-vip84.adobe.com
+127.0.0.1 wwis-dubc1-vip85.adobe.com
+127.0.0.1 wwis-dubc1-vip86.adobe.com
+127.0.0.1 wwis-dubc1-vip87.adobe.com
+127.0.0.1 wwis-dubc1-vip88.adobe.com
+127.0.0.1 wwis-dubc1-vip89.adobe.com
+127.0.0.1 wwis-dubc1-vip90.adobe.com
+127.0.0.1 wwis-dubc1-vip91.adobe.com
+127.0.0.1 wwis-dubc1-vip92.adobe.com
+127.0.0.1 wwis-dubc1-vip93.adobe.com
+127.0.0.1 wwis-dubc1-vip94.adobe.com
+127.0.0.1 wwis-dubc1-vip95.adobe.com
+127.0.0.1 wwis-dubc1-vip96.adobe.com
+127.0.0.1 wwis-dubc1-vip97.adobe.com
+127.0.0.1 wwis-dubc1-vip98.adobe.com
+127.0.0.1 wwis-dubc1-vip99.adobe.com
+127.0.0.1 wwis-dubc1-vip100.adobe.com
+127.0.0.1 wwis-dubc1-vip101.adobe.com
+127.0.0.1 wwis-dubc1-vip102.adobe.com
+127.0.0.1 wwis-dubc1-vip103.adobe.com
+127.0.0.1 wwis-dubc1-vip104.adobe.com
+127.0.0.1 wwis-dubc1-vip105.adobe.com
+127.0.0.1 wwis-dubc1-vip106.adobe.com
+127.0.0.1 wwis-dubc1-vip107.adobe.com
+127.0.0.1 wwis-dubc1-vip108.adobe.com
+127.0.0.1 wwis-dubc1-vip109.adobe.com
+127.0.0.1 wwis-dubc1-vip110.adobe.com
+127.0.0.1 wwis-dubc1-vip111.adobe.com
+127.0.0.1 wwis-dubc1-vip112.adobe.com
+127.0.0.1 wwis-dubc1-vip113.adobe.com
+127.0.0.1 wwis-dubc1-vip114.adobe.com
+127.0.0.1 wwis-dubc1-vip115.adobe.com
+127.0.0.1 wwis-dubc1-vip116.adobe.com
+127.0.0.1 wwis-dubc1-vip117.adobe.com
+127.0.0.1 wwis-dubc1-vip118.adobe.com
+127.0.0.1 wwis-dubc1-vip119.adobe.com
+127.0.0.1 wwis-dubc1-vip120.adobe.com
+127.0.0.1 wwis-dubc1-vip121.adobe.com
+127.0.0.1 wwis-dubc1-vip122.adobe.com
+127.0.0.1 wwis-dubc1-vip123.adobe.com
+127.0.0.1 wwis-dubc1-vip124.adobe.com
+127.0.0.1 wwis-dubc1-vip125.adobe.com
